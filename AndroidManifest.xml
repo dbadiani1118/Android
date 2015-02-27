@@ -3,7 +3,7 @@
     package="com.example.restaurant"
     android:versionCode="1"
     android:versionName="1.0" >
-<!-- Random Comments -->>
+<!-- Random Comments 2 -->>
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="18" />
